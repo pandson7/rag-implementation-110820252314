@@ -1,0 +1,28 @@
+RAG (Retrieval Augmented Generation) Implementation Requirements
+
+OBJECTIVE:
+Create a RAG implementation with natural language interface for document querying.
+
+KEY REQUIREMENTS:
+1. Use documents from "~/ea_sample_docs/rag_docs" folder as knowledge source
+2. Provide natural language question interface
+3. Test functionality with sample questions
+4. Validate responses using actual sourced documents (not simulated context)
+5. Set up all dependencies correctly
+6. Fix any issues during testing
+7. Ensure sample tests return expected responses
+8. Create frontend interface
+9. Start development server and launch webapp
+
+TECHNICAL SPECIFICATIONS:
+- Document source: ~/ea_sample_docs/rag_docs
+- Interface: Natural language Q&A
+- Validation: Real document sourcing required
+- Deployment: Web application with development server
+
+SUCCESS CRITERIA:
+- Functional RAG system
+- Accurate document retrieval
+- Natural language processing
+- Working web interface
+- Validated test responses
